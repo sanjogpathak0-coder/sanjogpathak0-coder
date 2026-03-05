@@ -29,7 +29,7 @@ Spring Boot • REST API
 MySQL
 
 ### Tools
-Git • Docker • Postman • Canva • Netlify
+Git • Docker • Postman • Canva • Netlify • VS Code • Intellij IDEA 
 
 ---
 
