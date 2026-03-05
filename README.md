@@ -54,12 +54,6 @@ Showcases projects and skills
 
 ---
 
-## 📊 GitHub Stats
-
-(Keep your current stats section)
-
----
-
 ## 🌐 Connect With Me
 
 GitHub: https://github.com/sanjogpathak0-coder 
