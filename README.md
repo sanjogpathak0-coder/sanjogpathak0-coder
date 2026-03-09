@@ -20,33 +20,33 @@
 C++ • Java • JavaScript • Typescript
 
 ### Frontend
-HTML • CSS • Tailwind CSS • Three.js
+HTML • CSS • Tailwind CSS • Java Script • React.js
 
 ### Backend
-Spring Boot • REST API
+Java • Spring Boot • REST API 
 
 ### Database
 MySQL
 
 ### Tools
-Git • Docker • Postman • Canva • Netlify • VS Code • Intellij IDEA 
+Git • Postman • Canva • Netlify • VS Code • Intellij IDEA 
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 Full Stack E-Commerce Website
-Spring Boot + MySQL + Tailwind  
+HTML + Tailwind + Spring Boot + MySQL   
 • Product management  
 • Cart system  
 • Order system  
 • User authentication
 
-### 💬 Real Time Chat Application
-Spring Boot + WebSockets  
-• Live messaging  
+### 🤝 Skills Exchanging Application
+React + Tailwind + Spring Boot + JWT + MySQL  
+• Live sessions  
 • User accounts  
-• Message history
+• Exchanging requests
 
 ### 🌐 Developer Portfolio Website
 Modern responsive portfolio  
