@@ -1,39 +1,44 @@
-# Hi 👋 I'm Sanjog Kumar Pathak
+Hi 👋 I'm Sanjog Kumar Pathak
 
-🚀 Aspiring Full Stack Java Developer  
-💻 Passionate about Backend Development & Scalable Systems  
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Spring Boot & Full Stack Development**
-- 🛠️ Building **real world web applications**
-- 📚 Exploring **backend architecture and system design**
+Java Backend Developer passionate about building secure & scalable web applications and backend systems.
 
 ---
 
-## ⚙️ Tech Stack
+About Me 🙎
 
-### Languages
+---
+
+• 🎓 Computer Science Student  
+• 🍃 Backend Developer specializing in Java & Spring Boot  
+• 🌐 Interested in system design and backend architecture  
+• 📲 Building real-world full stack applications
+
+---
+
+ ### ⚙️ Tech Stacks
+ 
+---
+
+###   Languages  👨‍💻
 C++ • Java • JavaScript • Typescript
 
-### Frontend
+###  Frontend  ⚛
 HTML • CSS • Tailwind CSS • Java Script • React.js
 
-### Backend
+###  Backend  🛡️
 Java • Spring Boot • REST API 
 
-### Database
+###  Database  🛢
 MySQL
 
-### Tools
+###  Tools  🛠️
 Git • Postman • Canva • Netlify • VS Code • Intellij IDEA 
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
+
+---
 
 ### 🛒 Full Stack E-Commerce Website
 HTML + Tailwind + Spring Boot + MySQL   
