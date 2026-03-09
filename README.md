@@ -106,8 +106,8 @@ Features:
 
 
 Instagram: https://www.instagram.com/_sanjog_pathak/  
-LinkedIn: https://www.linkedin.com  
-Email: sanjogpathak@gmail.com
+LinkedIn: https://www.linkedin.com/in/sanju01/  
+Email: sanjogpathak0@gmail.com
 
 
 ---
