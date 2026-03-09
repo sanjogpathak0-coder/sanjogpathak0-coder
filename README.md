@@ -41,30 +41,27 @@ Through hands-on projects, I continuously improve my understanding of:
 
  ⚙️ Tech Stack
 
-### Programming Languages
-Java  
-JavaScript  
-C++
-
-### Backend
-Spring Boot  
-REST APIs  
-
 ### Frontend
-React  
+
 HTML  
 CSS  
-TailwindCSS  
+JS ES6+  
+React.js  
+TailwindCSS
 
-### Database
-MySQL  
+### Backend
+
+Java  
+Spring Boot  
+REST APIs  
+MySQL
 
 ### Tools & Technologies
-Git  
-GitHub  
+
+Git & GitHub  
 Postman  
 VS Code  
-IntelliJ IDEA  
+IntelliJ IDEA
 
 ---
 
@@ -102,14 +99,6 @@ Features:
 • Responsive UI design  
 • Project showcase  
 • Developer profile presentation  
-
----
-
- 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjogpathak0-coder&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjogpathak0-coder&layout=compact&theme=tokyonight)
 
 ---
 
